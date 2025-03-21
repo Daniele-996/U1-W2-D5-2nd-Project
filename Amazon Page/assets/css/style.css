@@ -48,6 +48,8 @@ main div h2 {
   background-color: rgb(245, 102, 0);
   text-align: center;
   color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
   padding: 10px;
 }
 main div h1 {
