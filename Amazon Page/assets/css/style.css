@@ -19,7 +19,7 @@ header span button {
 }
 
 header div img {
-  width: 150px;
+  max-width: 24.5%;
   padding-left: 30px;
   padding-bottom: 10px;
   padding-top: 10px;
@@ -76,6 +76,9 @@ main section {
 }
 main div img {
   width: 100%;
+  max-height: 280px;
+  object-fit: cover;
+  border-radius: 20px;
 }
 
 section div {
